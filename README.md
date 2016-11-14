@@ -49,7 +49,7 @@ The application can be deployed via Heroku or any other deployment server
 
 * **Jahin Majumdar** - [jahin07](https://github.com/jahin07)
 * **Nikhil Singh** - [singh0520](https://github.com/singh0520)
-* **Sarang Mittal**
+* **Sarang Mittal** - [Sarang7](https://github.com/Sarang7)
 
 ## Acknowledgments
 
