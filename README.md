@@ -1,4 +1,4 @@
-[![Travis branch](https://img.shields.io/travis/libopenstorage/gossip/master.svg)](https://travis-ci.org/libopenstorage/gossip)
+[![Build](https://img.shields.io/travis/libopenstorage/gossip/master.svg)](https://travis-ci.org/libopenstorage/gossip)
 
 # Project Title
 
